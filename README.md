@@ -9,9 +9,9 @@
 ```javascript
 const victoria = {
   pronouns: "she" | "her",
-  code: ["JavaScript", "TypeScript", "Python", "Rust", "HTML", "CSS"],
-  frameworks: ["NestJS", "Express", "SAP CAP", "React"],
-  tools: ["NodeJS", "React", "Jest", "Docker", "Jenkins"],
+  code: ["JavaScript", "TypeScript", "Python", "Rust", "Go", "HTML", "CSS"],
+  frameworks: ["NestJS", "Express", "SAP CAP", "React", "Tailwind"],
+  tools: ["NodeJS", "Jest", "Docker", "Jenkins"],
   databases: ["PostgreSQL", "MySQL", "MSSQL", "SQLite", "HANA", "MongoDB"]
 }
 ``` 
